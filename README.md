@@ -25,3 +25,12 @@ char c = 'k'
 Boolean- True or False values
 boolean b = true;
 
+/*****************Type Conversion*********************/
+byte b =127;
+int a = 257;
+b=a; ---b = (byte)a;
+a=b;
+float f = 5.6f;
+int x = (int)f;
+
+
