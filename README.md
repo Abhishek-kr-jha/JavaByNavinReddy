@@ -32,5 +32,8 @@ b=a; ---b = (byte)a;
 a=b;
 float f = 5.6f;
 int x = (int)f;
+*******************Objects in java*****************
+Object Oriented Programing
+Object - Properties and Begaviours
 
 
