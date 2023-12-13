@@ -36,4 +36,18 @@ int x = (int)f;
 Object Oriented Programing
 Object - Properties and Begaviours
 
+*******************Array in Java*****************
+int i = 5;
+int j= 6;
+int k = 7;
+
+int num[] ={5,6,7};
+int num[]= new int[4];
+
+***********Multi Dimensional Array in java************
+int nums[][]= new int[3][4];
+
+
+
+
 
